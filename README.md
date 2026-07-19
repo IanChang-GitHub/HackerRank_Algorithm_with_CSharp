@@ -5,7 +5,7 @@
 | --- | --- | 
 | Extra Long Factorials | https://www.hackerrank.com/challenges/extra-long-factorials/problem | 
 | Climbing the Leaderboard | https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem | 
-|  |  | 
+| Encryption | https://www.hackerrank.com/challenges/encryption/problem | 
 |  |  | 
 |  |  | 
 |  |  | 
