@@ -28,11 +28,13 @@ class Result
      * The function accepts following parameters:
      *  1. INTEGER k
      *  2. INTEGER_ARRAY s
+
      解題想法:
      兩數之和(x+y)能被k整除，必滿足下列其一條件
      1.(a mod k) + (b mod k) = k
      2.(a mod k) = 0 && (b mod k) = 0
-     
+
+     餘數為r數字與餘數為k-r的數字是互斥的（不能同時存在於子集合中），為了讓子集合的長度最大化，採取貪婪策略
      挑子集數量特例:
      Case 1:餘數0，最多只能挑一個
      Case 2:k為偶數時，餘數=k/2，最多只能挑一個
@@ -53,9 +55,9 @@ class Result
             
         for(int i=1; i<=k/2;i++) //i與k-i互補，只需驗證一邊
         {
-            if (i == k-i)
+            if (i == k-i) //case 2
             {
-                if(remainder[i] > 0) //case 2
+                if(remainder[i] > 0) 
                     maxLength++;
             }
             else
