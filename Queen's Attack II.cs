@@ -27,7 +27,7 @@ class Result
      *  5. 2D_INTEGER_ARRAY obstacles
      */
 
-    public static int queensAttack(int n, int k, int r_q, int c_q, List<List<int>> obstacles)
+    public static int queensAttack(int n, int k, int r_q, int c_q, List<List<int>> obstacles) //棋盤長寬,障礙物數量,皇后的列,皇后的行,障礙物座標
     {
         //計算皇后八個方向最大攻擊距離(無障礙物下)
 	    int up = n-r_q;
