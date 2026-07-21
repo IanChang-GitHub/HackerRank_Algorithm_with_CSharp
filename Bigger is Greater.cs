@@ -23,6 +23,7 @@ class Result
      * 
      * 解題關鍵:
      * 1.由大至小的排列組成會最大
+     * 2.字典排序由左往右比較，故越右邊的數值影響越小
      */
 
     public static string biggerIsGreater(string w)
