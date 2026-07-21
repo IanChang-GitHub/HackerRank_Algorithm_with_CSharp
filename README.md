@@ -1,4 +1,4 @@
-# HackerRank
+# HackerRank Algorithm
 
 ## Medium
 | Problem | Description | 
@@ -7,6 +7,13 @@
 | Climbing the Leaderboard | https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem | 
 | Encryption | https://www.hackerrank.com/challenges/encryption/problem | 
 | Non-Divisible Subset | https://www.hackerrank.com/challenges/non-divisible-subset/problem | 
+| Queen's Attack II | https://www.hackerrank.com/challenges/queens-attack-2/problem | 
+| Bigger is Greater | https://www.hackerrank.com/challenges/bigger-is-greater/problem | 
+| Organizing Containers of Balls | https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
 |  |  | 
 |  |  | 
 
