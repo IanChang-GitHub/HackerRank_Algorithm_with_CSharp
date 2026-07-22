@@ -10,8 +10,8 @@
 | Queen's Attack II | https://www.hackerrank.com/challenges/queens-attack-2/problem | 
 | Bigger is Greater | https://www.hackerrank.com/challenges/bigger-is-greater/problem | 
 | Organizing Containers of Balls | https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem | 
-|  |  | 
-|  |  | 
+| The Time in Words | https://www.hackerrank.com/challenges/the-time-in-words/problem | 
+| 3D Surface Area | https://www.hackerrank.com/challenges/3d-surface-area/problem | 
 |  |  | 
 |  |  | 
 |  |  | 
