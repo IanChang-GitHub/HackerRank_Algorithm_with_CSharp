@@ -12,7 +12,7 @@
 | Organizing Containers of Balls | https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem | 
 | The Time in Words | https://www.hackerrank.com/challenges/the-time-in-words/problem | 
 | 3D Surface Area | https://www.hackerrank.com/challenges/3d-surface-area/problem | 
-|  |  | 
+| Minimum Loss | https://www.hackerrank.com/challenges/minimum-loss/problem | 
 |  |  | 
 |  |  | 
 |  |  | 
